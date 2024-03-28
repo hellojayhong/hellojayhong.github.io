@@ -34,7 +34,7 @@ paginate: true
 * **Engine** : Unreal Engine 5
 * **Language** : C++ / UE5 Blueprints
 * **Team Size** : 8 programmers 
-* **Development Period** : September 2022 - December 2022
+* **Development Period** : September 2022 - April 2023
 
 
 ### About the Game
