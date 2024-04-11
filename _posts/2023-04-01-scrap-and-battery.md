@@ -54,4 +54,4 @@ I was the Game AI programmer, created main framework of state machines and behav
 
 
 
-[full download with installation](https://games.digipen.edu/games/scrap-and-battery)
+[full download on Steam](https://store.steampowered.com/app/2654590/Scrap_and_Battery/)
